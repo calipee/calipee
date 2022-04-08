@@ -8,6 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/11676447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11676447" height="30" width="40" /></a>
+<a href="https://www.printables.com/social/123369-calipee/about" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1506612090261360642/tMvdBgZC_400x400.jpg" alt="11676447" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
