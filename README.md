@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Calipee</h1>
 <h3 align="center">A Business and Computer Science Student from Germany</h3>
 
-<h4 align="center">Feel free to buy me coffee :D 
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/calipee)
-</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/11676447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11676447" height="30" width="40" /></a>
@@ -17,3 +13,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=calipee&show_icons=true&locale=en&layout=compact" alt="calipee" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=calipee&show_icons=true&locale=en" alt="calipee" /></p>
+
+<h4>Feel free to buy me coffee :D 
+
+<p><a href="https://www.buymeacoffee.com/calipee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="calipee" /></a></p><br><br>
